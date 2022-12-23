@@ -1,10 +1,16 @@
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Heyloo
+  <img src="https://media.tenor.com/5iiD6jOOCuAAAAAM/quby-high-five.gif" width="40px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" width="200" height="200"/>
+</div>
+
 <h3 align="center">A passionate frontend developer</h3>
 
 ---
+
 
 - :telescope: I’m in 2nd year studying Btech CSE Core and contributing to frontend for building Mobile applications.
 
@@ -13,9 +19,11 @@
 - :zap: In my free time, I focus on working on my Game Project that i am making in Unity 3D and learning how to make Character Models for my games in Blender 3D.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-singh-168ab7246/)
+
 ---
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.tenor.com/zNZjeqK_FxwAAAAC/code-works-code-not-working.gif" width="400" height="300"/>
 </div>
 
 ---
