@@ -43,3 +43,10 @@
 
 ### :writing_hand: Blog Posts : 
 Coming Soon
+
+### Projects: 
+i dont upload projects on here much but i'll try to...
+
+<div>
+<img src="https://media.tenor.com/_kqZQY5wX2sAAAAM/orange-cat-smile-cat-smile.gif" width="40px"/>
+<div>
