@@ -1,6 +1,20 @@
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+- :telescope: I’m in 2nd year studying Btech CSE Core and contributing to frontend for building Mobile applications.
 
+- :seedling: Exploring Unity and Unreal Engine.
+
+- :zap: In my free time, I focus on working on my Game Project that i am making in Unity 3D and learning how to make Character Models for my games in Blender 3D.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-singh-168ab7246/)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <p align="left">
 </p>
 
