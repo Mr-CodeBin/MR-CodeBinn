@@ -12,7 +12,7 @@
 ---
 
 
-- :telescope: I’m in 2nd year studying Btech CSE Core and contributing to frontend for building Mobile applications.
+- :telescope: I’m in 3rd year studying Btech CSE Core and contributing to frontend for building Mobile applications.
 
 - :seedling: Exploring Unity and Unreal Engine.
 
