@@ -7,7 +7,7 @@
   <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" width="200" height="200"/>
 </div>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate App developer</h3>
 
 ---
 
