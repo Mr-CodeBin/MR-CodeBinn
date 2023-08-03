@@ -14,9 +14,9 @@
 
 - :telescope: I’m in 3rd year studying Btech CSE Core and contributing to frontend for building Mobile applications.
 
-- :seedling: Exploring Unity and Unreal Engine.
+- :seedling: Exploring Flutter, Rest, Unity and Unreal Engine.
 
-- :zap: In my free time, I focus on working on my Game Project that i am making in Unity 3D and learning how to make Character Models for my games in Blender 3D.
+- :zap: I focus on working on my App projects that i am making using Flutter and learning how to make Character Models and 3D animations in Blender.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-singh-168ab7246/)
 
