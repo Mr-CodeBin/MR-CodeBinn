@@ -45,7 +45,7 @@
 Coming Soon
 
 ### Projects: 
-i dont upload projects on here much but i'll try to...
+I dont upload projects on here much but I give my best shot...
 
 <div>
 <img src="https://media.tenor.com/_kqZQY5wX2sAAAAM/orange-cat-smile-cat-smile.gif" width="40px"/>
