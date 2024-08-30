@@ -12,11 +12,11 @@
 ---
 
 
-- :telescope: I’m in 3rd year studying Btech CSE Core and contributing to frontend for building Mobile applications.
+- :telescope: I’m in final year studying Btech CSE Core and contributing to frontend for building Mobile applications.
 
-- :seedling: Exploring Flutter, Rest, Unity and Unreal Engine.
+- :seedling: Exploring Flutter, Backend, Blender.
 
-- :zap: I focus on working on my App projects that i am making on Flutter with responsive UI designs and learning how to make Character Models and 3D animations in Blender.
+- :zap: I focus on working on Mobile App projects that build on Flutter with responsive UI design, fail-proof backend communications between frontend-backend and in the free time,learning how to make Character Models and 3D animations in Blender.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-singh-168ab7246/)
 
