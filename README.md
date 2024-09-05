@@ -1,7 +1,9 @@
 <h1>
   Heyloo
   <img src="https://media.tenor.com/5iiD6jOOCuAAAAAM/quby-high-five.gif" width="40px"/>
-</h1>
+ 
+</h1> 
+<a href="https://wakatime.com/@384b9f4a-6e69-43c2-bfed-d7be5827b3ec"><img src="https://wakatime.com/badge/user/384b9f4a-6e69-43c2-bfed-d7be5827b3ec.svg" alt="Total time coded since Jul 11 2024" /></a>
 
 <div align="center">
   <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" width="200" height="200"/>
